@@ -1,6 +1,6 @@
 # UFOs
 ## Overview: 
-In the this project we worked on making a more in dpth analysis of the UFO sightings by allowing users to filter for multiple criteria at the same time.
+In the this project we worked on making a more in depth analysis of the UFO sightings by allowing users to filter for multiple criteria at the same time.
 In addition to the date we had to ad filters for the city, state, country and shape.
 
 
